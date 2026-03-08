@@ -21,4 +21,4 @@ The objective of this project is to predict the sales prices of residential prop
 ## Milestone
 *This project represents my very first step into the world of Machine Learning.*
 
-**Date:** March 8, 2026
+**Date:** March 1, 2026
